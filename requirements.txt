@@ -1,0 +1,14 @@
+[] It should have a budget class
+[] The budget class should contain budgets for the following:
+    [] Rent
+        - Rent should be at a fixed rate of $1000/m and should be first priority
+    [] Utilities
+        - Utilities should have range with a maximum of $150/m and should be second priority
+    [] Food
+        - Should have a maximum of $400/m and should have 3rd priority
+    [] Business Expenses
+        - Fixed at $200/m and should have 4th priority
+    [] Clothing
+        - Up to $100/m
+    [] Entertainment
+        - Up to $300/m
